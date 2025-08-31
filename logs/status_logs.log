@@ -1,0 +1,37 @@
+2025-08-31 19:56:04 - src.loghandler - INFO - Starting AISOC Chat Engine...
+2025-08-31 19:57:13 - src.loghandler - INFO - Starting AISOC Chat Engine...
+2025-08-31 20:06:50 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:06:50 - src.loghandler - INFO - The user's query is: today bangalore weather
+2025-08-31 20:06:50 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:06:50 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:06:50 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
+2025-08-31 20:07:04 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:07:04 - src.loghandler - INFO - The user's query is: today bangalore weather
+2025-08-31 20:07:04 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:07:04 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:07:04 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
+2025-08-31 20:31:12 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:31:12 - src.loghandler - INFO - The user's query is: strategy for becoming fit
+2025-08-31 20:31:12 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:31:12 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:31:12 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-08-31 20:35:10 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:35:10 - src.loghandler - INFO - The user's query is: strategy for becoming fit
+2025-08-31 20:35:10 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:35:10 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:35:10 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
+2025-08-31 20:46:47 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:46:47 - src.loghandler - INFO - The user's query is: strategy for becoming fit
+2025-08-31 20:46:47 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:46:47 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:46:47 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
+2025-08-31 20:57:20 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 20:57:20 - src.loghandler - INFO - The user's query is: strategy for becoming fit
+2025-08-31 20:57:20 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 20:57:20 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 20:57:20 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
+2025-08-31 21:09:08 - src.loghandler - INFO - Chat engine started for conversation 12345
+2025-08-31 21:09:08 - src.loghandler - INFO - The user's query is: strategy for becoming fit
+2025-08-31 21:09:08 - src.loghandler - INFO - System prompt::Your name is MyChatbot. You are a helpful and honest assistant designed for a RAG-powered application. Your goal is to use the provided information below to answer my request. These information has been extracted from a set of documents, which could include unstructure PDFs, webpages, databases, etc.
+2025-08-31 21:09:08 - src.loghandler - INFO - Initializing Chroma database...
+2025-08-31 21:09:08 - src.loghandler - ERROR - Error connecting to Chroma database for collection `aisoc-12345-embeddings`: Could not connect to a Chroma server. Are you sure it is running?
